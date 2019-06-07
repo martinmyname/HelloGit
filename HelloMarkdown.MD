@@ -1,53 +1,22 @@
-
-
-1
-
 # Martin
 
-2
-
- [my GitHub](https://github.com/martinmyname)
-
-3
+[my GitHub](https://github.com/martinmyname)
 
 ## education
 
-4
-
-|* schools *|* year *|
-
-5
-
+  |* schools *|* year *|
 |:-------|:----|
-
-6
-
 |*Makindye junior school*|*2010*|
-
-7
-
-| *luwero secondary school* | *2016*|---
-
-8
+ | *luwero secondary school* | *2016*|
 
 ## speak out your feelings
 
-9
+ :satisfied:
 
- * haha 
+ :hushed:
 
-10
-
- * sad 
-
-11
-
- * pray 
-
-12
+ :kissing:
 
 ##  favourite qoute
-
-13
 
 We're living the future so the present is our past.
